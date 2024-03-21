@@ -1,2 +1,2 @@
 # Basic-calculator-in-python
-Does basic calculations like addition, multiplication, subtraction and division.
+User friendly calculator and one of my first project in python as well as first in GitHub. Does basic calculations like addition, multiplication, subtraction and division.
